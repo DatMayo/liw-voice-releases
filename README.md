@@ -35,7 +35,7 @@ Hier liegen nur die fertigen Versionen (Windows x64 und Linux x64).
    doppelklicken – oder in Mumble: Einstellungen → Plugins → „Plugin installieren“.
 3. In Mumble unter Einstellungen → Plugins „LiW Proximity“ aktivieren; unter Audioausgabe positionsabhängiges Audio
    einschalten.
-4. Mumble mit unserem Mumble-Server verbinden (Adresse im Discord) und das Spiel starten. Das Plugin verbindet sich
+4. Mumble mit unserem Server **`talk.playliw.com`** verbinden (Server → Verbinden → Server hinzufügen, Port 64738) und das Spiel starten. Das Plugin verbindet sich
    selbst und schiebt dich in den Spielkanal.
 
 Neue Version: einfach die neue Datei genauso installieren, sie ersetzt die alte.
@@ -78,7 +78,7 @@ Only the finished versions are kept here (Windows x64 and Linux x64).
 2. Download `liw_proximity-<version>.mumble_plugin` from [playliw.com/voice](https://playliw.com/voice) and
    double-click it – or in Mumble: Settings → Plugins → “Install plugin”.
 3. In Mumble enable “LiW Proximity” under Settings → Plugins; switch on positional audio under Audio output.
-4. Connect Mumble to our Mumble server (address on the Discord) and start the game. The plugin links up by itself and
+4. Connect Mumble to our server **`talk.playliw.com`** (Server → Connect → Add New, port 64738) and start the game. The plugin links up by itself and
    moves you into the game channel.
 
 New version: install the new file the same way, it replaces the old one.
